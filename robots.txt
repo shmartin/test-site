@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://tri-techdigitalsolution.com/sitemap.xml
+Sitemap: https://tri-techdigitalsolution.com/sitemap.rss
+
